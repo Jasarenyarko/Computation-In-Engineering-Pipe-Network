@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/include\" -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/inc\" -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/PipeNetwork.dir/drivers/main.cpp.o -c \"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/drivers/main.cpp\"",
+  "file": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/drivers/main.cpp",
+  "output": "CMakeFiles/PipeNetwork.dir/drivers/main.cpp.o"
+},
+{
+  "directory": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/include\" -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/inc\" -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/PipeNetworkTest.dir/lib/test/PipeNetworkTest.cpp.o -c \"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/test/PipeNetworkTest.cpp\"",
+  "file": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/test/PipeNetworkTest.cpp",
+  "output": "CMakeFiles/PipeNetworkTest.dir/lib/test/PipeNetworkTest.cpp.o"
+},
+{
+  "directory": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build/linalg",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/inc\" -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/linalg.dir/src/linalg.cpp.o -c \"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/src/linalg.cpp\"",
+  "file": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/src/linalg.cpp",
+  "output": "linalg/CMakeFiles/linalg.dir/src/linalg.cpp.o"
+},
+{
+  "directory": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/include\" -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/inc\" -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/PipeNetworkLib.dir/src/Node.cpp.o -c \"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/src/Node.cpp\"",
+  "file": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/src/Node.cpp",
+  "output": "lib/CMakeFiles/PipeNetworkLib.dir/src/Node.cpp.o"
+},
+{
+  "directory": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/include\" -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/inc\" -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/PipeNetworkLib.dir/src/PipeNetwork.cpp.o -c \"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/src/PipeNetwork.cpp\"",
+  "file": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/src/PipeNetwork.cpp",
+  "output": "lib/CMakeFiles/PipeNetworkLib.dir/src/PipeNetwork.cpp.o"
+},
+{
+  "directory": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build/lib",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/include\" -I\"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/linalg/inc\" -g -std=gnu++2b -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/PipeNetworkLib.dir/src/Tube.cpp.o -c \"/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/src/Tube.cpp\"",
+  "file": "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/lib/src/Tube.cpp",
+  "output": "lib/CMakeFiles/PipeNetworkLib.dir/src/Tube.cpp.o"
+}
+]

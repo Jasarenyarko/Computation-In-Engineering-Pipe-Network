@@ -1,0 +1,122 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				},
+				{
+					"build" : "linalg",
+					"jsonFile" : "directory-linalg-Debug-3980b6b5925f8b11950b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "linalg",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "lib",
+					"jsonFile" : "directory-lib-Debug-c12f15c6f888b43a891c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "PipeNetwork",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PipeNetwork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PipeNetwork-Debug-28fd471dce014e4e0f71.json",
+					"name" : "PipeNetwork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "PipeNetworkLib::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-PipeNetworkLib-Debug-c67517ebee972d35df4a.json",
+					"name" : "PipeNetworkLib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PipeNetworkTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PipeNetworkTest-Debug-616af3e7c1e02d7a96fa.json",
+					"name" : "PipeNetworkTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "linalg::@7f482b152e75f2d3946e",
+					"jsonFile" : "target-linalg-Debug-a7da268119290a05b7ff.json",
+					"name" : "linalg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jasarenyarko/Desktop/CIE1/Pipe Network/build",
+		"source" : "/Users/jasarenyarko/Desktop/CIE1/Pipe Network"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
